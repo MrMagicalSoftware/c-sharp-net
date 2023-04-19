@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "dEu8UufSEY2pegunyr31+YuatmUkAOF+pBl0lXDA+ycfrRXjF08snTzNcSVNemnebfpuRrnwbbkNhKy75ldq9Q==",
+  "success": true,
+  "projectFilePath": "/Users/mr/Projects/RestSharpExample/RestSharpExample/RestSharpExample.csproj",
+  "expectedPackageFiles": [
+    "/Users/mr/.nuget/packages/restsharp/110.1.0/restsharp.110.1.0.nupkg.sha512",
+    "/Users/mr/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
+    "/Users/mr/.nuget/packages/system.text.json/7.0.2/system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

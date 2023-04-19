@@ -1,0 +1,17 @@
+/Users/mr/Projects/RestSharpExample/RestSharpExample/obj/Debug/net7.0/RestSharpExample.csproj.AssemblyReference.cache
+/Users/mr/Projects/RestSharpExample/RestSharpExample/obj/Debug/net7.0/RestSharpExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mr/Projects/RestSharpExample/RestSharpExample/obj/Debug/net7.0/RestSharpExample.AssemblyInfoInputs.cache
+/Users/mr/Projects/RestSharpExample/RestSharpExample/obj/Debug/net7.0/RestSharpExample.AssemblyInfo.cs
+/Users/mr/Projects/RestSharpExample/RestSharpExample/obj/Debug/net7.0/RestSharpExample.csproj.CoreCompileInputs.cache
+/Users/mr/Projects/RestSharpExample/RestSharpExample/bin/Debug/net7.0/RestSharpExample
+/Users/mr/Projects/RestSharpExample/RestSharpExample/bin/Debug/net7.0/RestSharpExample.deps.json
+/Users/mr/Projects/RestSharpExample/RestSharpExample/bin/Debug/net7.0/RestSharpExample.runtimeconfig.json
+/Users/mr/Projects/RestSharpExample/RestSharpExample/bin/Debug/net7.0/RestSharpExample.dll
+/Users/mr/Projects/RestSharpExample/RestSharpExample/bin/Debug/net7.0/RestSharpExample.pdb
+/Users/mr/Projects/RestSharpExample/RestSharpExample/bin/Debug/net7.0/RestSharp.dll
+/Users/mr/Projects/RestSharpExample/RestSharpExample/obj/Debug/net7.0/RestSharpExample.csproj.CopyComplete
+/Users/mr/Projects/RestSharpExample/RestSharpExample/obj/Debug/net7.0/RestSharpExample.dll
+/Users/mr/Projects/RestSharpExample/RestSharpExample/obj/Debug/net7.0/refint/RestSharpExample.dll
+/Users/mr/Projects/RestSharpExample/RestSharpExample/obj/Debug/net7.0/RestSharpExample.pdb
+/Users/mr/Projects/RestSharpExample/RestSharpExample/obj/Debug/net7.0/RestSharpExample.genruntimeconfig.cache
+/Users/mr/Projects/RestSharpExample/RestSharpExample/obj/Debug/net7.0/ref/RestSharpExample.dll
