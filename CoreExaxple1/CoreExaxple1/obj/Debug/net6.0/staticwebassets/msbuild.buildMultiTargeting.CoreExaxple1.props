@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CoreExaxple1.props" />
+</Project>
